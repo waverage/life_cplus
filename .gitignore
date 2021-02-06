@@ -338,3 +338,9 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+Eternal Life.sln
+Eternal Life.vcxproj
+Eternal Life.vcxproj.filters
+LICENSE.freetype.txt
+LICENSE.zlib.txt
